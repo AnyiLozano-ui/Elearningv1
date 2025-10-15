@@ -159,6 +159,7 @@ body {
 	height: 100%;
 	display: block;
 	animation: breathe 3s ease-in-out infinite;
+	cursor: pointer;
 }
 
 /* Halo expansivo */

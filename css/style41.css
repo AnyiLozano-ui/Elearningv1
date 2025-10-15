@@ -78,6 +78,16 @@ body {
 	z-index: 10;
 }
 
+.boto1 {
+	position: absolute;
+	width: 13%;
+	height: 5%;
+	left: 7.5%;
+	top: 77%;
+	cursor: pointer;
+	z-index: 10;
+}
+
 /* Animacion nube  */
 .nube {
 	position: absolute;

@@ -188,6 +188,7 @@ body {
 .questnext img {
 	width: 110%;
 	height: 100%;
+	cursor: pointer;
 }
 
 /* incorrect */
@@ -198,6 +199,7 @@ body {
 	top: 27.1%;
 	right: 45.2%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect1 {
@@ -207,6 +209,7 @@ body {
 	top: 36.8%;
 	right: 45.2%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect2 {
@@ -216,6 +219,7 @@ body {
 	top: 56.1%;
 	right: 45.2%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 /* Animacion preguntas incorrec */
