@@ -108,8 +108,8 @@ body {
 .correct {
 	position: absolute;
 	width: 50%;
-    left: 0%;
-    top: 71.7%;
+	left: 0%;
+	top: 71.7%;
 	z-index: 10;
 	cursor: pointer;
 	min-height: 6.1%;
@@ -123,28 +123,31 @@ body {
 .incorrect {
 	position: absolute;
 	width: 50%;
-    height: 6.4%;
-    top: 45.2%;
-    right: 50%;
+	height: 6.4%;
+	top: 45.2%;
+	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect1 {
 	position: absolute;
 	width: 50%;
-    height: 6.4%;
+	height: 6.4%;
 	top: 53.9%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect2 {
 	position: absolute;
 	width: 50%;
-    height: 6.4%;
+	height: 6.4%;
 	top: 62.5%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 /* Animacion preguntas incorrec */

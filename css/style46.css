@@ -127,6 +127,7 @@ body {
 	top: 58%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect1 {
@@ -136,6 +137,7 @@ body {
 	top: 68.8%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect2 {
@@ -145,6 +147,7 @@ body {
 	top: 78.6%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 /* Animacion preguntas incorrec */

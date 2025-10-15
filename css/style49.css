@@ -127,6 +127,7 @@ body {
     top: 38.2%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect1 {
@@ -136,6 +137,7 @@ body {
 	top: 64.1%;
 	right: 50%;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 .incorrect2 {
@@ -144,6 +146,7 @@ body {
     height: 7.6%;
 	top: 77.5%;
 	right: 50%;
+	cursor: pointer;
 	border-radius: 5px;
 }
 
