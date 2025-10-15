@@ -65,7 +65,7 @@ body {
 	background-size: cover;
 	width: 100%;
 	height: 100%;
-	background-image: url(https://eml.com.co/elearning_nutri_baby/portada2.jpg);
+	background-image: url(https://eml.com.co/elearning_nutri_baby/portada1.jpg);
 }
 
 .btn1 {
@@ -75,6 +75,18 @@ body {
     right: 37.5%;
     top: 78%;
 	cursor: pointer;
+}
+
+.titulo {
+	position: absolute;
+    width: 78.6%;
+    left: 8%;
+    top: 25.1%;
+}
+
+.titulo img {
+	width: 100%;
+	height: 100%;
 }
 
 /* Animacion nube  */
@@ -304,6 +316,7 @@ body {
 	width: 17.4%;
 	left: 42.3%;
 	top: 10.1%;
+	z-index: 10;
 }
 
 .tarro1 img {
@@ -316,6 +329,7 @@ body {
 	width: 23.4%;
 	left: 50.9%;
 	top: 23.1%;
+	z-index: 10;
 }
 
 .tarro2 img {
@@ -328,6 +342,7 @@ body {
 	width: 22.6%;
 	left: 59.2%;
 	top: 38.9%;
+	z-index: 10;
 }
 
 .tarro3 img {
@@ -340,6 +355,7 @@ body {
 	width: 25%;
 	left: 44.4%;
 	top: 47.9%;
+	z-index: 10;
 }
 
 .tarro4 img {
@@ -353,6 +369,7 @@ body {
 	left: 29.7%;
 	top: 41.5%;
 	z-index: 10;
+	z-index: 100;
 }
 
 .tarro5 img {
@@ -365,6 +382,7 @@ body {
 	width: 24.1%;
 	left: 17%;
 	top: 41.2%;
+	z-index: 10;
 }
 
 .tarro6 img {
@@ -377,6 +395,7 @@ body {
 	width: 16.7%;
 	left: 32.3%;
 	top: 24%;
+	z-index: 10;
 }
 
 .tarro7 img {
