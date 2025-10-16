@@ -65,7 +65,19 @@ body {
 	background-size: cover;
 	width: 100%;
 	height: 100%;
-	background-image: url(https://eml.com.co/elearning_nutri_baby/portada42.jpg);
+	background-image: url(https://eml.com.co/elearning_nutri_baby/portada1.jpg);
+}
+
+.titulo {
+	position: absolute;
+   width: 87%;
+    left: 6.6%;
+    top: 18.1%;
+}
+
+.titulo img {
+	width: 100%;
+	height: 100%;
 }
 
 .btn1 {

@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	-webkit-tap-highlight-color: hsl(0, 0%, 5%);
 	-webkit-user-select: none;
 	user-select: none;
 	cursor: default;
@@ -65,7 +64,7 @@ body {
 	background-size: cover;
 	width: 100%;
 	height: 100%;
-	background-image: url(https://eml.com.co/elearning_nutri_baby/portada17.jpg);
+	background-image: url(https://eml.com.co/elearning_nutri_baby/portada15.jpg);
 }
 
 .btn1 {
@@ -78,6 +77,17 @@ body {
 	z-index: 10;
 }
 
+.titulo {
+	position: absolute;
+	width: 54.8%;
+    left: -0.3%;
+    top:10.4%;
+}
+
+.titulo img {
+	width: 100%;
+	height: 100%;
+}
 /* Animacion nube  */
 .nube {
 	position: absolute;
