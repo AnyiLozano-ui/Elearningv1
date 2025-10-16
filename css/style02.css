@@ -75,6 +75,7 @@ body {
     right: 37.5%;
     top: 78%;
 	cursor: pointer;
+	z-index: 10;
 }
 
 .titulo {
