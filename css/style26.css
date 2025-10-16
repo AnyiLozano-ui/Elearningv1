@@ -31,11 +31,18 @@ html {
 
 .quantity {
 	font-size: 2.3vw;
-    position: absolute;
-    top: 31.5%;
-    left: 28.8%;
-    z-index: 100;
-    color: #1e3766;
+	position: absolute;
+	top: 31.5%;
+	left: 28.2%;
+	z-index: 100;
+	color: #1e3766;
+}
+
+@media (max-width: 750px) {
+	.quantity {
+		top: 32.4%;
+		left: 28.5%;
+	}
 }
 
 .alto {
@@ -79,8 +86,8 @@ body {
 .titulo {
 	position: absolute;
 	width: 45.8%;
-    left: 7.7%;
-    top: 11.4%;
+	left: 7.7%;
+	top: 11.4%;
 }
 
 .titulo img {
@@ -124,7 +131,6 @@ body {
 }
 /* Animacion nube  */
 
-
 /* animacion hondas */
 .hondas {
 	position: absolute;
@@ -158,9 +164,9 @@ body {
 /* animacion bnoton */
 .boton {
 	position: absolute;
-    width: 16.4%;
-    left: 22.6%;
-    top: 76.3%;
+	width: 16.4%;
+	left: 22.6%;
+	top: 76.3%;
 	z-index: 100;
 	cursor: pointer;
 }
@@ -212,8 +218,8 @@ body {
 .personaje {
 	position: absolute;
 	width: 37.8%;
-    right: 3.4%;
-    top: 11%;
+	right: 3.4%;
+	top: 11%;
 	z-index: 100;
 	animation: jumpCelebrate 1.2s ease-out;
 	pointer-events: none;
